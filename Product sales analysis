@@ -1,0 +1,3 @@
+# Write your MySQL query statement below
+select prod.product_name,sal.year,sal.price from Sales as sal  join Product as prod
+using(product_id);
