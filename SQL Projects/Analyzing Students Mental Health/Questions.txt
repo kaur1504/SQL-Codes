@@ -1,0 +1,21 @@
+Basic:
+Retrieve the total number of students surveyed.
+Calculate the average stress level.
+Identify the most common health issue.
+Find the most common sleep quality reported.
+List the top 5 most residence types with their frequencies.
+
+
+Intermediate:
+Find the average stress level per course.
+Identify the stress level distribution by gender.
+Find the percentage of high stress students (stress_level>=5) using counselling service use.
+Find the average CGPA grouped by stress levels.
+Identify the top 3 factors linked with high stress.
+
+Advanced:
+Calculate the percentage contribution of each gender to high stress case.
+Analyze the cumulative count of students reported over time.
+Determine the top 3 courses with highest average depression score.
+Show stress vs cgpa trend(categorical analysis).
+Identify the top 3 residence types contributing most to financial stress.
